@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 
 
 /*
- * Main Class for game
+ * Main Class
  */
 
 public class Blackjack extends JFrame implements ActionListener {
